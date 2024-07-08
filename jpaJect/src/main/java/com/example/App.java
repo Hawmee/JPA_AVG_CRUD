@@ -17,6 +17,7 @@ import java.util.List;
  * Hello world!
  *
  */
+@SuppressWarnings("unused")
 public class App 
 {
     public static void main( String[] args ) throws IOException {

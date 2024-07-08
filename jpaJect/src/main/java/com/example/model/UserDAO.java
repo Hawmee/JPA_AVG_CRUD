@@ -5,7 +5,6 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import java.util.List;
 
-@SuppressWarnings("unused")
 public class UserDAO {
 
     private final EntityManagerFactory emf = Persistence.createEntityManagerFactory("UserPU");

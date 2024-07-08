@@ -7,6 +7,7 @@ import com.sun.net.httpserver.HttpServer;
 
 import java.io.IOException;
 
+@SuppressWarnings("unused")
 public class CORSHandler implements HttpHandler {
 
     private final HttpHandler next ;

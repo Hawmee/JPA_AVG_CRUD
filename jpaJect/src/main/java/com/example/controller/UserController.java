@@ -8,6 +8,7 @@ import com.sun.net.httpserver.HttpsServer;
 import java.net.InetSocketAddress;
 import java.util.List;
 
+@SuppressWarnings("unused")
 public class UserController {
 
     private UserDAO userDAO = new UserDAO();
