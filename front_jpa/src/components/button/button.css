@@ -1,0 +1,32 @@
+.btn_place{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.btn_style{
+    background-color: rgb(253, 253, 253);
+    color: rgb(99, 99, 99);
+    width: 100px;
+    height: 35px;
+    border-radius: 10px 0px 12px 0px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.add_btn:hover{
+    background-color: rgb(209, 209, 209);
+    border-radius: 10px 0px 12px 0px;
+    color: rgb(99, 99, 99);
+    font-weight: 500;
+    
+}
+
+.edit_btn:hover{
+    background: #303c4d;
+    /* color: rgb(218, 215, 215); */
+}
+
+.delete-btn:hover{
+    background: #c43434;
+}

@@ -1,0 +1,13 @@
+.Main{
+    background-color: #060c14;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+
+.tableWrapper{
+    background-color: rgb(39, 39, 39);
+    min-width: 50vw;
+    position: relative;
+    border-radius: 15px 15px 15px 15px;
+}
